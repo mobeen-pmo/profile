@@ -1,0 +1,22 @@
+{
+  "name": "Mirza M Mobeen - Portfolio",
+  "short_name": "Mobeen",
+  "description": "Personal portfolio of Mirza Muhammad Mobeen — Project Manager, Software Developer, Team Lead, and Digital Marketing Specialist from Rawalpindi, Pakistan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d12",
+  "theme_color": "#ff014f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/images/avatar.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
