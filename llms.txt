@@ -4,7 +4,7 @@
 
 ## About
 
-Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a Software Engineer, AI Researcher, Project Manager, Team Lead, and Google Certified Digital Marketer. He is a NUTECH graduate and founder of a charity organization. Currently working as a Software Engineer at Sanwa Comtec K.K, Japan, leading the Pakistan team on Robotic Process Automation (RPA), Industrial Software Automation, Cybersecurity Solutions, and IBM i / AS400 Solutions.
+Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a Software Engineer, AI Researcher, Project Manager, Team Lead, and Google Certified Digital Marketer. He is a NUTECH graduate and founder of a charity organization. Currently working as a Software Engineer at Sanwa Comtec K.K, Japan, leading the Pakistan team on Robotic Process Automation (RPA), Industrial Software Automation, Cybersecurity Solutions, and IBM i Systems.
 
 ## Contact
 
@@ -22,7 +22,7 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a Software Engineer, AI 
 - Project Management (Trello, Asana, Jira)
 - Robotic Process Automation (RPA)
 - Cybersecurity Solutions
-- IBM i / AS400 Solutions
+- IBM i Systems
 - Team Leadership & Coordination
 - Digital Marketing & SEO
 - Event Management & Community Outreach
@@ -35,7 +35,7 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a Software Engineer, AI 
 - Working on Robotic Process Automation (RPA)
 - Working on Industrial Software Automation
 - Working on Cybersecurity Solutions
-- Working on IBM i / AS400 Solutions
+- Working on IBM i Systems
 
 ## Work Experience
 
