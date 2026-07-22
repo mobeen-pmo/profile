@@ -135,11 +135,12 @@
                 dots: true,
                 arrows: true,
                 autoplay: true,
-                autoplaySpeed: 5000,
+                autoplaySpeed: 3000,
+                speed: 800,
                 pauseOnHover: false,
                 pauseOnFocus: false,
+                pauseOnDotsHover: false,
                 adaptiveHeight: true,
-                cssEase: 'linear',
                 prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-arrow-left"></i></button>',
                 nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-arrow-right"></i></button>'
             });
@@ -151,11 +152,12 @@
                 dots: true,
                 arrows: true,
                 autoplay: true,
-                autoplaySpeed: 5000,
+                autoplaySpeed: 3000,
+                speed: 800,
                 pauseOnHover: false,
                 pauseOnFocus: false,
+                pauseOnDotsHover: false,
                 adaptiveHeight: true,
-                cssEase: 'linear',
                 prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-chevron-left"></i></button>',
                 nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-chevron-right"></i></button>',
                 responsive: [
@@ -428,7 +430,8 @@
         },
 
     }
-    imJs.m();
-
+    $(document).ready(function () {
+        imJs.m();
+    });
 
 })(jQuery, window)
