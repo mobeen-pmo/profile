@@ -1,25 +1,28 @@
 # Mirza Muhammad Mobeen
 
-> Project Manager, Software Developer, Team Lead, and Google Certified Digital Marketer based in Rawalpindi, Pakistan.
+> Software Engineer, AI Researcher, Project Manager, Team Lead, and Google Certified Digital Marketer based in Islamabad & Rawalpindi, Pakistan.
 
 ## About
 
-Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a versatile professional with expertise in project management, software development, team leadership, and digital marketing. He is a Google Certified Digital Marketer and founder of a charity organization. Currently working as a Software Developer at Sanwa Comtec K.K, Japan, leading the Pakistan team on Robotic Process Automation (RPA) and Industrial Software Automation projects.
+Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a Software Engineer, AI Researcher, Project Manager, Team Lead, and Google Certified Digital Marketer. He is a NUTECH graduate and founder of a charity organization. Currently working as a Software Engineer at Sanwa Comtec K.K, Japan, leading the Pakistan team on Robotic Process Automation (RPA), Industrial Software Automation, Cybersecurity Solutions, and IBM i / AS400 Solutions.
 
 ## Contact
 
 - Email: smobeen34@gmail.com
 - Phone: +92 3016460045
-- Location: Rawalpindi, Pakistan
+- Location: Rawalpindi / Islamabad, Pakistan
 - LinkedIn: https://www.linkedin.com/in/mirzamuhammadmobeen/
 - GitHub: https://github.com/mirzamobeen
 - Instagram: https://www.instagram.com/mobeenmirzam/
 
 ## Skills
 
+- Software Engineering (C#, C++, WPF, Flutter, Python)
+- AI Research & Implementation
 - Project Management (Trello, Asana, Jira)
-- Software Development (C#, C++, WPF, Flutter)
 - Robotic Process Automation (RPA)
+- Cybersecurity Solutions
+- IBM i / AS400 Solutions
 - Team Leadership & Coordination
 - Digital Marketing & SEO
 - Event Management & Community Outreach
@@ -27,14 +30,16 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a versatile professional
 
 ## Current Role
 
-**Software Developer** at Sanwa Comtec K.K, Japan (July 2025 - Present)
+**Software Engineer** at Sanwa Comtec K.K, Japan (July 2025 - Present)
 - Team Lead for Sanwa Comtec Pakistan Team
 - Working on Robotic Process Automation (RPA)
 - Working on Industrial Software Automation
+- Working on Cybersecurity Solutions
+- Working on IBM i / AS400 Solutions
 
 ## Work Experience
 
-- **Software Developer** — Sanwa Comtec K.K, Japan (July 2025 - Present)
+- **Software Engineer** — Sanwa Comtec K.K, Japan (July 2025 - Present)
 - **AI Lab Supervisor** — NUTECH, Islamabad (April 2025 - July 2025)
 - **Project Manager** — Techanion Pvt. Ltd, Islamabad (December 2024 - April 2025)
 - **Business Developer** — Techanion Pvt. Ltd, Islamabad (October 2024 - November 2024)
@@ -61,13 +66,13 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a versatile professional
 
 ## Services Offered
 
+- Software Engineering & AI Research
 - Project Management
 - Team Leadership
+- Custom RPA Solutions & Cybersecurity
+- IBM i / AS400 Software Solutions
 - Digital Presence & Branding Strategy
-- Software Development (Custom RPA Solutions)
-- Marketing & Outreach Campaigns
-- Event Organization
-- Community Impact Initiatives
+- Event Organization & Community Outreach
 - Training, Mentorship & Workshops
 
 ## Published Work
@@ -78,4 +83,4 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a versatile professional
 
 ## Availability
 
-Available for freelance work. Open to project management, software development, and digital marketing engagements.
+Available for freelance work. Open to software engineering, AI research, project management, and consulting engagements.
