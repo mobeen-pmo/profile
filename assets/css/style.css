@@ -7867,7 +7867,7 @@ xclip
   right: 0;
   width: 2px;
   height: 80%;
-  background-color: transparent !important;
+  background-color: #fd4520;
   transform: translateY(-50%); }
 
 .cd-headline.clip b {
@@ -13050,7 +13050,7 @@ div#featured-project-carousel {
   transform: scale(1.05);
 }
 .certification-slick-activation .rn-portfolio .thumbnail::after {
-  content: 'Zoom';
+  content: '🔍 Zoom';
   position: absolute;
   bottom: 12px;
   right: 12px;
