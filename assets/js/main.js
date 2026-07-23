@@ -209,27 +209,23 @@
 
             $('.certification-slick-activation').slick({
                 infinite: true,
-                slidesToShow: 4,
+                slidesToShow: 3,
                 slidesToScroll: 1,
                 dots: true,
                 arrows: true,
                 autoplay: true,
-                autoplaySpeed: 4000,
+                autoplaySpeed: 3500,
                 speed: 800,
                 pauseOnHover: true,
+                swipe: true,
+                touchMove: true,
+                draggable: true,
                 cssEase: 'ease-in-out',
-                adaptiveHeight: false,
                 prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-arrow-left"></i></button>',
                 nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-arrow-right"></i></button>',
-                responsive: [{
-                        breakpoint: 1400,
-                        settings: {
-                            slidesToShow: 3,
-                            slidesToScroll: 1,
-                        }
-                    },
+                responsive: [
                     {
-                        breakpoint: 1124,
+                        breakpoint: 992,
                         settings: {
                             slidesToShow: 2,
                             slidesToScroll: 1,
@@ -247,16 +243,16 @@
                 ]
             });
 
-            // Certification Click to Zoom Modal Event
+            // Certification Click-to-Zoom handler
             $(document).on('click', '.certification-slide-item .rn-portfolio', function (e) {
                 e.preventDefault();
                 var imgSrc = $(this).find('.thumbnail img').attr('src');
-                var titleText = $(this).find('.title a').text().replace(/<[^>]*>?/gm, '').trim();
-                var categoryText = $(this).find('.category-list a').text().trim();
-                
-                $('#certModalImage').attr('src', imgSrc);
-                $('#certModalTitle').text(titleText);
-                $('#certModalCategory').text(categoryText);
+                var certCategory = $(this).find('.category-list a').text();
+                var certTitle = $(this).find('.content .title a').text();
+
+                $('#certZoomImg').attr('src', imgSrc);
+                $('#certZoomTitle').text(certTitle);
+                $('#certZoomCategory').text(certCategory);
                 $('#certZoomModal').modal('show');
             });
 
