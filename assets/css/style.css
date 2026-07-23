@@ -12986,27 +12986,10 @@ div#featured-project-carousel {
   position: relative;
   margin: 0 -15px;
   padding-bottom: 30px;
-  width: 100%;
-}
-.certification-slick-activation .slick-list {
-  overflow: hidden;
-  position: relative;
-  width: 100%;
-}
-.certification-slick-activation .slick-track {
-  display: flex !important;
-  flex-direction: row !important;
-  flex-wrap: nowrap !important;
-}
-.certification-slick-activation .slick-slide {
-  height: auto !important;
-  float: left !important;
-  display: block !important;
 }
 .certification-slick-activation .certification-slide-item {
   padding: 15px;
   outline: none;
-  box-sizing: border-box;
 }
 .certification-slick-activation .rn-portfolio {
   margin: 0;

@@ -239,15 +239,6 @@
                             dots: true,
                             arrows: false,
                         }
-                    },
-                    {
-                        breakpoint: 576,
-                        settings: {
-                            slidesToShow: 1,
-                            slidesToScroll: 1,
-                            dots: true,
-                            arrows: false,
-                        }
                     }
                 ]
             });
