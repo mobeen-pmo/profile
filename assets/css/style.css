@@ -12987,6 +12987,30 @@ div#featured-project-carousel {
   margin: 0 -15px;
   padding-bottom: 30px;
 }
+.certification-slick-activation:not(.slick-initialized) {
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  overflow-x: auto !important;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+.certification-slick-activation:not(.slick-initialized) .certification-slide-item {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+  scroll-snap-align: start;
+}
+@media (min-width: 768px) {
+  .certification-slick-activation:not(.slick-initialized) .certification-slide-item {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+  }
+}
+@media (min-width: 992px) {
+  .certification-slick-activation:not(.slick-initialized) .certification-slide-item {
+    flex: 0 0 33.333% !important;
+    max-width: 33.333% !important;
+  }
+}
 .certification-slick-activation .certification-slide-item {
   padding: 15px;
   outline: none;
