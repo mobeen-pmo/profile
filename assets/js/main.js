@@ -207,6 +207,61 @@
             });
 
 
+            $('.certification-slick-activation').slick({
+                infinite: true,
+                slidesToShow: 4,
+                slidesToScroll: 1,
+                dots: true,
+                arrows: true,
+                autoplay: true,
+                autoplaySpeed: 4000,
+                speed: 800,
+                pauseOnHover: true,
+                cssEase: 'ease-in-out',
+                adaptiveHeight: false,
+                prevArrow: '<button class="slide-arrow prev-arrow"><i class="feather-arrow-left"></i></button>',
+                nextArrow: '<button class="slide-arrow next-arrow"><i class="feather-arrow-right"></i></button>',
+                responsive: [{
+                        breakpoint: 1400,
+                        settings: {
+                            slidesToShow: 3,
+                            slidesToScroll: 1,
+                        }
+                    },
+                    {
+                        breakpoint: 1124,
+                        settings: {
+                            slidesToShow: 2,
+                            slidesToScroll: 1,
+                        }
+                    },
+                    {
+                        breakpoint: 768,
+                        settings: {
+                            slidesToShow: 1,
+                            slidesToScroll: 1,
+                            dots: true,
+                            arrows: false,
+                        }
+                    }
+                ]
+            });
+
+            // Certification Click to Zoom Modal Event
+            $(document).on('click', '.certification-slide-item .rn-portfolio', function (e) {
+                e.preventDefault();
+                var imgSrc = $(this).find('.thumbnail img').attr('src');
+                var titleText = $(this).find('.title a').text().replace(/<[^>]*>?/gm, '').trim();
+                var categoryText = $(this).find('.category-list a').text().trim();
+                
+                $('#certModalImage').attr('src', imgSrc);
+                $('#certModalTitle').text(titleText);
+                $('#certModalCategory').text(categoryText);
+                $('#certZoomModal').modal('show');
+            });
+
+
+
             $('.blog-slick-activation').slick({
                 infinite: true,
                 slidesToShow: 3,

@@ -12982,6 +12982,179 @@ div#featured-project-carousel {
 .portfolio-slick-activation .rn-portfolio-slick {
   padding: 35px 15px; }
 
+/*-----------------------------
+    Certifications Carousel Styles
+-------------------------------*/
+.certification-slick-activation {
+  position: relative;
+  margin: 0 -10px;
+  padding: 10px 0 50px 0;
+}
+.certification-slick-activation .slick-track {
+  display: flex !important;
+  align-items: stretch;
+}
+.certification-slick-activation .slick-slide {
+  height: auto;
+  display: flex !important;
+}
+.certification-slick-activation .certification-slide-item {
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+}
+.certification-slick-activation .rn-portfolio {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  background: var(--background-color-1);
+  box-shadow: var(--shadow-1);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+}
+.certification-slick-activation .rn-portfolio:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-2);
+}
+.certification-slick-activation .rn-portfolio .inner {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+.certification-slick-activation .rn-portfolio .thumbnail {
+  height: 210px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  background: rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 10px;
+}
+.certification-slick-activation .rn-portfolio .thumbnail img {
+  max-height: 100%;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  transition: transform 0.4s ease;
+}
+.certification-slick-activation .rn-portfolio:hover .thumbnail img {
+  transform: scale(1.06);
+}
+.certification-slick-activation .rn-portfolio .content {
+  padding: 18px 15px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.certification-slick-activation .rn-portfolio .category-list a {
+  color: var(--color-primary);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.certification-slick-activation .rn-portfolio .title {
+  margin-top: 8px;
+  font-size: 15px;
+  font-weight: 700;
+}
+.certification-slick-activation .rn-portfolio .title a {
+  color: var(--color-lightn);
+  transition: var(--transition);
+}
+.certification-slick-activation .rn-portfolio:hover .title a {
+  color: var(--color-primary);
+}
+
+/* Arrow Styling - Matching Sleek Neumorphic Style */
+.certification-slick-activation button.slide-arrow {
+  font-size: 20px;
+  position: absolute;
+  top: 45%;
+  transform: translateY(-50%);
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  background: var(--background-color-1);
+  box-shadow: var(--shadow-1);
+  border: 0 none;
+  z-index: 10;
+  border-radius: 50%;
+  color: var(--color-white);
+  transition: var(--transition);
+  cursor: pointer;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+.certification-slick-activation button.slide-arrow.prev-arrow {
+  left: -24px;
+}
+.certification-slick-activation button.slide-arrow.next-arrow {
+  right: -24px;
+}
+.certification-slick-activation button.slide-arrow:hover {
+  color: var(--color-primary);
+  background: var(--background-color-2);
+  box-shadow: var(--shadow-2);
+}
+@media only screen and (max-width: 991px) {
+  .certification-slick-activation button.slide-arrow.prev-arrow {
+    left: -10px;
+  }
+  .certification-slick-activation button.slide-arrow.next-arrow {
+    right: -10px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .certification-slick-activation button.slide-arrow {
+    display: none !important;
+  }
+}
+
+/* Dots Navigation Styling */
+.certification-slick-activation .slick-dots {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.certification-slick-activation .slick-dots li {
+  display: inline-block;
+  margin: 0 5px;
+}
+.certification-slick-activation .slick-dots li button {
+  font-size: 0;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+}
+.certification-slick-activation .slick-dots li.slick-active button {
+  background: var(--color-primary);
+  width: 24px;
+  border-radius: 10px;
+}
+
+
 .blog-slick-activation {
   margin: -35px -15px; }
   @media only screen and (max-width: 1199px) {
