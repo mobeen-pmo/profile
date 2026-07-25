@@ -1,45 +1,45 @@
 # Mirza Muhammad Mobeen
 
-> Software Engineer, AI Researcher, Project Manager, Team Lead, and Google Certified Digital Marketer based in Islamabad & Rawalpindi, Pakistan.
+> Software Engineer, AI Researcher, Project Manager, Team Lead, NUTECH & Fazaia FIC Nur Khan Alumnus, and Google Certified Digital Marketer based in Islamabad & Rawalpindi, Pakistan.
 
 ## About
 
-Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a Software Engineer, AI Researcher, Project Manager, Team Lead, and Google Certified Digital Marketer. He is a NUTECH graduate and founder of a charity organization. Currently working as a Software Engineer at Sanwa Comtec K.K, Japan, leading the Pakistan team on Robotic Process Automation (RPA), Industrial Software Automation, Cybersecurity Solutions, and IBM i Systems.
+Mirza Muhammad Mobeen (also known as Mirza M Mobeen, Mobeen, Mirza Mobeen) is a Software Engineer, AI Researcher, Project Manager, Team Lead, and Google Certified Digital Marketer. He is an alumnus of NUTECH (National University of Technology, Islamabad) and Fazaia Inter College Nur Khan (FIC Nur Khan / PAF, Rawalpindi). He is currently working as a Software Engineer at Sanwa Comtec K.K (SCT / SCTP), Japan, leading the Pakistan engineering team on Robotic Process Automation (RPA), Industrial Software Automation, Cybersecurity Solutions, and IBM i Systems.
+
+## Key Search Identifiers & Alternate Names
+
+- Mirza Muhammad Mobeen / Mirza M Mobeen / Mirza Mobeen / Mobeen
+- Mobeen Software Engineer / Mobeen AI Researcher / Mobeen Project Manager
+- Mobeen NUTECH / Mobeen Fazaia / Mobeen FIC Nur Khan / Mobeen PAF
+- Mobeen Sanwa Comtec / Mobeen SCT / Mobeen SCTP / Mobeen Techanion / Mobeen InoTech
+- Mobeen Pakistan / Mobeen Islamabad / Mobeen Rawalpindi / Mobeen Japan
 
 ## Contact
 
 - Email: smobeen34@gmail.com
 - Phone: +92 3016460045
-- Location: Rawalpindi / Islamabad, Pakistan
+- Location: Rawalpindi / Islamabad, Pakistan & Tokyo, Japan
+- Website: https://mirzamobeen.pages.dev/
 - LinkedIn: https://www.linkedin.com/in/mirzamuhammadmobeen/
 - GitHub: https://github.com/mirzamobeen
 - Instagram: https://www.instagram.com/mobeenmirzam/
 
-## Skills
+## Technical Expertise & Stack
 
-- Software Engineering (C#, C++, WPF, Flutter, Python)
-- AI Research & Implementation
-- Project Management (Trello, Asana, Jira)
-- Robotic Process Automation (RPA)
-- Cybersecurity Solutions
-- IBM i Systems
-- Team Leadership & Coordination
-- Digital Marketing & SEO
-- Event Management & Community Outreach
-- Training, Mentorship & Workshops
-
-## Current Role
-
-**Software Engineer** at Sanwa Comtec K.K, Japan (July 2025 - Present)
-- Team Lead for Sanwa Comtec Pakistan Team
-- Working on Robotic Process Automation (RPA)
-- Working on Industrial Software Automation
-- Working on Cybersecurity Solutions
-- Working on IBM i Systems
+- C# / .NET / WPF Desktop Applications
+- AI Research (Explainable AI IDS, Medical Image Diagnostic Systems, NLP)
+- Robotic Process Automation (RPA) & Industrial Automation
+- Project Management & Agile Team Leadership (Jira, Trello, Asana)
+- Flutter Mobile Development & Python
+- Cybersecurity Solutions & IBM i Systems
+- Digital Marketing, SEO & Personal Branding
 
 ## Work Experience
 
 - **Software Engineer** — Sanwa Comtec K.K, Japan (July 2025 - Present)
+  - Team Lead for Sanwa Comtec Pakistan Team (SCT / SCTP)
+  - Robotic Process Automation (RPA) & Industrial Software Automation
+  - Cybersecurity Solutions & IBM i Systems
 - **AI Lab Supervisor** — NUTECH, Islamabad (April 2025 - July 2025)
 - **Project Manager** — Techanion Pvt. Ltd, Islamabad (December 2024 - April 2025)
 - **Business Developer** — Techanion Pvt. Ltd, Islamabad (October 2024 - November 2024)
@@ -51,7 +51,14 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a Software Engineer, AI 
 ## Education
 
 - **BS Software Engineering** — NUTECH (National University of Technology), Islamabad (2020 - 2024)
-- **High School (Pre-Engineering)** — Fazaia Inter College (2018 - 2020)
+- **High School (Pre-Engineering)** — Fazaia Inter College Nur Khan (FIC Nur Khan / PAF), Rawalpindi (2018 - 2020)
+
+## Top Featured Projects
+
+- **X-Nosys** — AI-Powered Automated Medical Report Generation System for Lumbar Spinal Stenosis
+- **Explainable AI (XAI) Intrusion Detection System (IDS)** — Deep learning cybersecurity threat detection
+- **Bilingual Technical Translation System** — English-Japanese translation platform for engineering documentation
+- **Online Tutoring & Freelance Developer Portfolios** — Custom web applications
 
 ## Certifications
 
@@ -66,14 +73,13 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a Software Engineer, AI 
 
 ## Services Offered
 
-- Software Engineering & AI Research
-- Project Management
-- Team Leadership
-- Custom RPA Solutions & Cybersecurity
+- Software Engineering & C# / WPF Application Development
+- AI Research & Medical / Cybersecurity AI Solutions
+- Technical Project Management & Team Leadership
+- Custom RPA Solutions & Industrial Automation
 - IBM i / AS400 Software Solutions
 - Digital Presence & Branding Strategy
 - Event Organization & Community Outreach
-- Training, Mentorship & Workshops
 
 ## Published Work
 
@@ -83,4 +89,4 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen) is a Software Engineer, AI 
 
 ## Availability
 
-Available for freelance work. Open to software engineering, AI research, project management, and consulting engagements.
+Available for software engineering, AI research, project management, and technical consulting engagements.
