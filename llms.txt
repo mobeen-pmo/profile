@@ -1,14 +1,17 @@
 # Mirza Muhammad Mobeen
 
-> Software Engineer, AI Researcher, Project Manager, Team Lead, NUTECH & Fazaia FIC Nur Khan Alumnus, and Google Certified Digital Marketer based in Islamabad & Rawalpindi, Pakistan.
+> Software Engineer, MS Artificial Intelligence Scholar, AI Researcher, Former AI Lab Supervisor & Faculty Member at NUTECH, BS Computer Science Graduate, and Google Certified Digital Marketer based in Islamabad & Rawalpindi, Pakistan.
 
 ## About
 
-Mirza Muhammad Mobeen (also known as Mirza M Mobeen, Mobeen, Mirza Mobeen) is a Software Engineer, AI Researcher, Project Manager, Team Lead, and Google Certified Digital Marketer. He is an alumnus of NUTECH (National University of Technology, Islamabad) and Fazaia Inter College Nur Khan (FIC Nur Khan / PAF, Rawalpindi). He is currently working as a Software Engineer at Sanwa Comtec K.K (SCT / SCTP), Japan, leading the Pakistan engineering team on Robotic Process Automation (RPA), Industrial Software Automation, Cybersecurity Solutions, and IBM i Systems.
+Mirza Muhammad Mobeen (also known as Mirza M Mobeen, Mobeen, Mirza Mobeen) is a Software Engineer, MS Artificial Intelligence Scholar, AI Researcher, Project Manager, Team Lead, and Google Certified Digital Marketer. He holds a **Bachelor of Computer Science (BS Computer Science / BS CS)** degree from NUTECH (National University of Technology, Islamabad, 2020–2024), is currently pursuing his **Master's in Artificial Intelligence (MS AI)** at NUTECH (2025–Present), and previously served as a **Faculty Member / AI & Robotics Lab Supervisor at NUTECH** (April 2025 – July 2025). High school alumnus of Fazaia Inter College Nur Khan (FIC Nur Khan / PAF, Rawalpindi). Currently working as a Software Engineer at Sanwa Comtec K.K (SCT / SCTP), Japan, leading the Pakistan engineering team on Robotic Process Automation (RPA), Industrial Software Automation, Cybersecurity Solutions, and IBM i Systems.
 
 ## Key Search Identifiers & Alternate Names
 
 - Mirza Muhammad Mobeen / Mirza M Mobeen / Mirza Mobeen / Mobeen
+- Mobeen MS AI Scholar / Mobeen MS Artificial Intelligence NUTECH
+- Mobeen BS Computer Science NUTECH / Mobeen BS CS NUTECH
+- Mobeen Former Faculty NUTECH / Mobeen AI Lab Supervisor NUTECH
 - Mobeen Software Engineer / Mobeen AI Researcher / Mobeen Project Manager
 - Mobeen NUTECH / Mobeen Fazaia / Mobeen FIC Nur Khan / Mobeen PAF
 - Mobeen Sanwa Comtec / Mobeen SCT / Mobeen SCTP / Mobeen Techanion / Mobeen InoTech
@@ -26,11 +29,10 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen, Mobeen, Mirza Mobeen) is a 
 
 ## Technical Expertise & Stack
 
-- C# / .NET / WPF Desktop Applications
-- AI Research (Explainable AI IDS, Medical Image Diagnostic Systems, NLP)
+- Computer Science & Software Engineering (C#, .NET, WPF, Python, Flutter)
+- AI Research & MS AI Focus (Advanced Machine Learning, Deep Learning, Generative Models, Explainable AI IDS, Medical Image Diagnostics)
 - Robotic Process Automation (RPA) & Industrial Automation
 - Project Management & Agile Team Leadership (Jira, Trello, Asana)
-- Flutter Mobile Development & Python
 - Cybersecurity Solutions & IBM i Systems
 - Digital Marketing, SEO & Personal Branding
 
@@ -40,7 +42,7 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen, Mobeen, Mirza Mobeen) is a 
   - Team Lead for Sanwa Comtec Pakistan Team (SCT / SCTP)
   - Robotic Process Automation (RPA) & Industrial Software Automation
   - Cybersecurity Solutions & IBM i Systems
-- **AI Lab Supervisor** — NUTECH, Islamabad (April 2025 - July 2025)
+- **AI & Robotics Lab Supervisor / Faculty Member** — NUTECH, Islamabad (April 2025 - July 2025)
 - **Project Manager** — Techanion Pvt. Ltd, Islamabad (December 2024 - April 2025)
 - **Business Developer** — Techanion Pvt. Ltd, Islamabad (October 2024 - November 2024)
 - **PSEB Apprenticeship (80 Hours)** — Rezolvat Engineering Pvt. Ltd, Islamabad (November 2024)
@@ -50,7 +52,8 @@ Mirza Muhammad Mobeen (also known as Mirza M Mobeen, Mobeen, Mirza Mobeen) is a 
 
 ## Education
 
-- **BS Software Engineering** — NUTECH (National University of Technology), Islamabad (2020 - 2024)
+- **MS Artificial Intelligence (MS AI)** — NUTECH (National University of Technology), Islamabad (2025 - Present)
+- **BS Computer Science (BS CS)** — NUTECH (National University of Technology), Islamabad (2020 - 2024)
 - **High School (Pre-Engineering)** — Fazaia Inter College Nur Khan (FIC Nur Khan / PAF), Rawalpindi (2018 - 2020)
 
 ## Top Featured Projects
